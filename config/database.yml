@@ -5,9 +5,9 @@ default: &default
 
 development:
   <<: *default
-  database: prelaunchr_development
-  username: prelaunch
-  password: password
+  database: prelaunchr_development2
+  username: mcconnell113
+  password: password113
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
