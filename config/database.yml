@@ -20,6 +20,6 @@ test:
 
 production:
   <<: *default
-  database: prelaunchr_production
-  username: deployer
-  password: prelaunch
+  database: prelaunchr_development2
+  username: mcconnell113
+  password: password113
